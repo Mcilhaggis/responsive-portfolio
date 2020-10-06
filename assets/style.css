@@ -3,7 +3,7 @@ body{
     font-family: 'Raleway', sans-serif;
     background-color: #8fc0a9;
     background-image: linear-gradient(white 1px, transparent 0),
-      linear-gradient(90deg, white 1px, transparent 0);
+        linear-gradient(90deg, white 1px, transparent 0);
     background-size: 25px 25px;
 }
 
@@ -13,7 +13,7 @@ h1{
     font-family: 'Playfair Display', serif;
 }
 
-p{
+section{
     padding:1em;
     font-size: 80%;
 }
@@ -40,7 +40,7 @@ margin-bottom: 150px;
     margin: 16px 30px;
 }
 
-.cat{
+.portfolio{
     height: auto;
     width: 100%;
     margin-bottom: 20px;
