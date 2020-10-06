@@ -60,6 +60,18 @@ footer{
     font-family: 'Playfair Display', serif;
 }
 
-.socials{
-    margin:8px;
+.social{
+    margin:10px;
+}
+
+.social a{
+    color:rgb(66, 66, 66);
+}
+
+.social a:hover{
+    color:rgb(73, 161, 117);
+}
+
+.social a:visited{
+    color:rgb(223, 159, 99);
 }
