@@ -24,3 +24,11 @@ margin-top: 80px;
     width:50%;
     margin: 1em;
 }
+
+.btn{
+    margin-bottom: 16px;
+}
+
+.form-group{
+    margin: 16px 30px;
+}
