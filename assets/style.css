@@ -47,9 +47,9 @@ margin-bottom: 150px;
 }
 
 footer{
-    height: 60px;
-    line-height: 60px;
-    background-color: pink;
+    height: 50px;
+    line-height: 50px;
+    background-color: gray;
     text-align: center;
     border-top-width: 5px;
     border-top-style: solid;
