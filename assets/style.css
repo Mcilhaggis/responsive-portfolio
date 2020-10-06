@@ -1,6 +1,10 @@
 body{
     background: grey;
     font-family: 'Raleway', sans-serif;
+    background-color: #8fc0a9;
+    background-image: linear-gradient(white 1px, transparent 0),
+      linear-gradient(90deg, white 1px, transparent 0);
+    background-size: 25px 25px;
 }
 
 h1{
