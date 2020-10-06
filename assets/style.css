@@ -24,3 +24,17 @@ margin-top: 80px;
     width:50%;
     margin: 1em;
 }
+
+.btn{
+    margin-bottom: 16px;
+}
+
+.form-group{
+    margin: 16px 30px;
+}
+
+.cat{
+    height: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}

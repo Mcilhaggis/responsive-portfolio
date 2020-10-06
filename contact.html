@@ -2,11 +2,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
+    <!--Reset CSS-->
+    <link rel="stylesheet" href="./assets/reset.css">
     <!--Bootstrap CSS-->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<!--Chrome Responsive Tools Tag-->
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!--Chrome Responsive Tools Tag-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--Style sheet-->
+<link rel="stylesheet" href="./assets/style.css">
+    <title>Contact</title>
 </head>
 
 
@@ -26,6 +30,42 @@
           </div>
         </div>
       </nav>
+
+<!--Contact me form-->
+<div class="container">
+    <div class="row ">
+        <div class="box1 col-lg-8 col-md-8 col-sm-12">
+            <div class="row">
+                <div class="col-12">
+                    <h1>Contact</h1>
+                    <hr>
+                </div>
+                <div class="col-sm-12 col-md-10">
+                    <form>
+                        <div class="form-group">
+                            <label for="inputName">Name</label>
+                            <input type="text" class="form-control" id="inputName" placeholder="Name"> 
+                        </div>
+                        <div class="form-group">
+                          <label for="inputEmail">Email</label>
+                          <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter email">
+                          <small id="emailHelp" class="form-text text-muted">I might send you unsolicited tasty recipes.</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputMessage">Message</label>
+                            <textarea class="form-control" id="inputMessage" rows="3">Tell me something</textarea>
+                          </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                      
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+        </div>
+    </div>
+</div>
+
 
 
 <!-- Bootstrap: JS, Popper.js, and jQuery -->
