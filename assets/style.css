@@ -59,3 +59,19 @@ footer{
 .navbar-brand{
     font-family: 'Playfair Display', serif;
 }
+
+.social{
+    margin:10px;
+}
+
+.social a{
+    color:rgb(66, 66, 66);
+}
+
+.social a:hover{
+    color:rgb(73, 161, 117);
+}
+
+.social a:visited{
+    color:rgb(223, 159, 99);
+}
