@@ -32,3 +32,9 @@ margin-top: 80px;
 .form-group{
     margin: 16px 30px;
 }
+
+.cat{
+    height: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
