@@ -17,6 +17,7 @@ height: auto;
 width: 100%;
 background:white;
 margin-top: 80px;
+margin-bottom: 150px;
 
 }
 
@@ -37,4 +38,15 @@ margin-top: 80px;
     height: auto;
     width: 100%;
     margin-bottom: 20px;
+}
+
+footer{
+    height: 60px;
+    line-height: 60px;
+    background-color: pink;
+    text-align: center;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: beige;
+
 }
