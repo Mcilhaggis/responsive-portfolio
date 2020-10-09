@@ -9,27 +9,27 @@ This personal portfolio is built using **HTML and the Bootstrap framework for CS
 
 ### Screenshots
 #### 400px view
-![This is a alt text.](/assets/images/aboutme-400.png "This is a sample image.")
-![This is a alt text.](/assets/images/contact-400.png "This is a sample image.")
-![This is a alt text.](/assets/images/portfolio-400.png "This is a sample image.")
+![Screenshot of About Me page viewed on 400px screen.](/assets/images/aboutme-400.png "Screenshot of About Me page viewed on 400px screen.")
+![Screenshot of Contact page viewed on 400px screen.](/assets/images/contact-400.png "Screenshot of Contact page viewed on 400px screen.")
+![Screenshot of Portfolio page viewed on 400px screen.](/assets/images/portfolio-400.png "Screenshot of Portfolio page viewed on 400px screen.")
 
 #### 768px view
-![This is a alt text.](/assets/images/aboutme-768.png "This is a sample image.")
-![This is a alt text.](/assets/images/contact-768.png "This is a sample image.")
-![This is a alt text.](/assets/images/portfolio-768.png "This is a sample image.")
+![Screenshot of About Me page viewed on 768px screen.](/assets/images/aboutme-768.png "Screenshot of About Me page viewed on 768px screen.")
+![Screenshot of Contact page viewed on 768px screen.](/assets/images/contact-768.png "Screenshot of Contact page viewed on 768px screen.")
+![Screenshot of Portfolio page viewed on 768px screen.](/assets/images/portfolio-768.png "Screenshot of Portfolio page viewed on 768px screen.")
 
 #### 992px view
-![This is a alt text.](/assets/images/aboutme-992.png "This is a sample image.")
-![This is a alt text.](/assets/images/contact-992.png "This is a sample image.")
-![This is a alt text.](/assets/images/portfolio-992.png "This is a sample image.")
+![Screenshot of About Me page viewed on 992px screen.](/assets/images/aboutme-992.png "Screenshot of About Me page viewed on 992px screen.")
+![Screenshot of Contact page viewed on 768px screen.](/assets/images/contact-992.png "Screenshot of Contact page viewed on 768px screen.")
+![Screenshot of Portfolio page viewed on 992px screen.](/assets/images/portfolio-992.png "Screenshot of Portfolio page viewed on 992px screen.")
 
 ## URL
 The live project can be viewed here: https://mcilhaggis.github.io/responsive-portfolio/index.html
 
 
 ## Author
-Author: Rachael McIlhagga
-Twtiter: @mcilhaggis
+Author: Rachael McIlhagga  
+Twitter: @mcilhaggis
 
 ## License
 This source code is available to all and the project is licensed under the MIT License - see the LICENSE.md file for details
