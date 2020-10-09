@@ -10,17 +10,17 @@ This personal portfolio is built using **HTML and the Bootstrap framework for CS
 ### Screenshots
 #### 400px view
 ![This is a alt text.](/assets/images/aboutme-400.png "This is a sample image.")
-![This is a alt text.](/assets/images/aboutme-768.png "This is a sample image.")
-![This is a alt text.](/assets/images/aboutme-992.png "This is a sample image.")
+![This is a alt text.](/assets/images/contact-400.png "This is a sample image.")
+![This is a alt text.](/assets/images/portfolio-400.png "This is a sample image.")
 
 #### 768px view
-![This is a alt text.](/assets/images/contact-400.png "This is a sample image.")
+![This is a alt text.](/assets/images/aboutme-768.png "This is a sample image.")
 ![This is a alt text.](/assets/images/contact-768.png "This is a sample image.")
-![This is a alt text.](/assets/images/contact-992.png "This is a sample image.")
+![This is a alt text.](/assets/images/portfolio-768.png "This is a sample image.")
 
 #### 992px view
-![This is a alt text.](/assets/images/portfolio-400.png "This is a sample image.")
-![This is a alt text.](/assets/images/portfolio-768.png "This is a sample image.")
+![This is a alt text.](/assets/images/aboutme-992.png "This is a sample image.")
+![This is a alt text.](/assets/images/contact-992.png "This is a sample image.")
 ![This is a alt text.](/assets/images/portfolio-992.png "This is a sample image.")
 
 ## URL
