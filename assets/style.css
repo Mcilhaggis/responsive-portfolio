@@ -1,6 +1,9 @@
+/*font-family: 'Cardo', serif;
+font-family: 'Red Hat Text', sans-serif;*/
+
 body{
     background: grey;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Cardo', serif;
     background-color: #8fc0a9;
     background-image: linear-gradient(white 1px, transparent 0),
         linear-gradient(90deg, white 1px, transparent 0);
@@ -10,12 +13,16 @@ body{
 h1{
     font-size: 2.5em;
     margin: 15px;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 section{
     padding:1em;
     font-size: 80%;
+}
+
+.intro{
+    font-size: 1rem;
 }
 
 .box1{
@@ -57,7 +64,7 @@ footer{
 }
 
 .navbar-brand{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Red Hat Text', sans-serif;
 }
 
 .social{
