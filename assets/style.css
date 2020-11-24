@@ -4,16 +4,28 @@ font-family: 'Red Hat Text', sans-serif;*/
 body{
     background: grey;
     font-family: 'Cardo', serif;
-    background-color: #8fc0a9;
-    background-image: linear-gradient(white 1px, transparent 0),
-        linear-gradient(90deg, white 1px, transparent 0);
+    background-color:rgb(247, 245, 242);
     background-size: 25px 25px;
 }
 
+.navbar{
+    background-color: rgb(245, 238, 230);
+    height: 25rem;
+    font-size: 2.5rem;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    margin-left: 5%;
+}
+
 h1{
-    font-size: 2.5em;
-    margin: 15px;
-    font-family: 'Red Hat Text', sans-serif;
+    font-size: 2.3em;
+    font-family: 'Cardo', serif; 
+}
+
+.hi{
+    font-size: 5rem;
 }
 
 section{
@@ -22,21 +34,30 @@ section{
 }
 
 .intro{
-    font-size: 1rem;
+    font-size: 2rem;
+}
+
+.intro-section, .hi{
+    opacity: 0;
 }
 
 .box1{
 height: auto;
 width: 100%;
-background:white;
+background-color:rgb(247, 245, 242);
 margin-top: 80px;
 margin-bottom: 150px;
-
 }
 
-.snowday{
+.about-img{
     width:50%;
-    margin: 1em;
+    margin-right: 1em;
+}
+
+.btn-about{
+    background-color:rgb(247, 245, 242);
+    border: 1px grey solid;
+    margin: 6px;
 }
 
 .btn{
@@ -63,22 +84,16 @@ footer{
     border-top-color: beige;
 }
 
-.navbar-brand{
-    font-family: 'Red Hat Text', sans-serif;
-}
 
 .social{
     margin:10px;
+    width: auto;
 }
 
-.social a{
-    color:rgb(66, 66, 66);
+a{
+    color: rgb(16, 62, 121);
 }
 
-.social a:hover{
-    color:rgb(73, 161, 117);
-}
-
-.social a:visited{
-    color:rgb(223, 159, 99);
+a:hover{
+    color:rgb(121, 180, 214);
 }
