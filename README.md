@@ -11,7 +11,7 @@ This personal portfolio is built using **HTML and the Bootstrap CSS and Javascri
 ### Screenshots
 
 #### 992px view
-![Screenshot of Portfolio page viewed on 992px screen.](/assets/images/screenshot1.png "Screenshot of Portfolio page viewed on 992px screen.")
+![Screenshot of Portfolio page viewed on 992px screen.](/assets/images/screenshot-1.png "Screenshot of Portfolio page viewed on 992px screen.")
 
 ## URL
 The live project can be viewed here: https://mcilhaggis.github.io/responsive-portfolio/index.html
