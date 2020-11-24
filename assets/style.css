@@ -1,16 +1,31 @@
+/*font-family: 'Cardo', serif;
+font-family: 'Red Hat Text', sans-serif;*/
+
 body{
     background: grey;
-    font-family: 'Raleway', sans-serif;
-    background-color: #8fc0a9;
-    background-image: linear-gradient(white 1px, transparent 0),
-        linear-gradient(90deg, white 1px, transparent 0);
+    font-family: 'Cardo', serif;
+    background-color:rgb(247, 245, 242);
     background-size: 25px 25px;
 }
 
+.navbar{
+    background-color: rgb(245, 238, 230);
+    height: 25rem;
+    font-size: 2.5rem;
+}
+
+.navbar-brand{
+    font-size: 2.75rem;
+    margin-left: 5%;
+}
+
 h1{
-    font-size: 2.5em;
-    margin: 15px;
-    font-family: 'Playfair Display', serif;
+    font-size: 2.3em;
+    font-family: 'Cardo', serif; 
+}
+
+.hi{
+    font-size: 5rem;
 }
 
 section{
@@ -18,22 +33,37 @@ section{
     font-size: 80%;
 }
 
+.intro{
+    font-size: 2rem;
+}
+
+.intro-section, .hi{
+    opacity: 0;
+}
+
 .box1{
 height: auto;
 width: 100%;
-background:white;
+background-color:rgb(247, 245, 242);
 margin-top: 80px;
 margin-bottom: 150px;
-
 }
 
-.snowday{
+.about-img{
     width:50%;
-    margin: 1em;
+    margin-right: 1em;
 }
 
-.btn{
+.btn-about{
+    background-color:rgb(247, 245, 242);
+    border: 1px grey solid;
+    margin: 6px;
+    padding: 15px;
+}
+
+.btn-contact{
     margin-bottom: 16px;
+    margin-right: 3%;
 }
 
 .form-group{
@@ -46,6 +76,37 @@ margin-bottom: 150px;
     margin-bottom: 20px;
 }
 
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #dbbeb4;
+  }
+  
+  .container1:hover .overlay, .container2:hover .overlay, 
+  .container3:hover .overlay, .container4:hover .overlay {
+    opacity: .9;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+
 footer{
     height: 50px;
     line-height: 50px;
@@ -56,22 +117,16 @@ footer{
     border-top-color: beige;
 }
 
-.navbar-brand{
-    font-family: 'Playfair Display', serif;
-}
 
 .social{
     margin:10px;
+    width: auto;
 }
 
-.social a{
-    color:rgb(66, 66, 66);
+a{
+    color: rgb(16, 62, 121);
 }
 
-.social a:hover{
-    color:rgb(73, 161, 117);
-}
-
-.social a:visited{
-    color:rgb(223, 159, 99);
+a:hover{
+    color:rgb(121, 180, 214);
 }
