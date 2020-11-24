@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 ## About the Project
-This personal portfolio is built using **HTML and the Bootstrap CSS and Javascript**. This project displays my current portfolio of projects and provides an easy means of gettign in toch with me.
+This personal portfolio is built using **HTML and the Bootstrap CSS and Javascript**. This project displays my current portfolio of projects and provides an easy means of getting in touch with me.
 ### Features
     * Has semantic HTML and CSS
     * Meets accessibility standards
