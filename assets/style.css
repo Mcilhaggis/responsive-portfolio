@@ -15,7 +15,7 @@ body{
 }
 
 .navbar-brand{
-    font-size: 3rem;
+    font-size: 2.75rem;
     margin-left: 5%;
 }
 
@@ -58,10 +58,12 @@ margin-bottom: 150px;
     background-color:rgb(247, 245, 242);
     border: 1px grey solid;
     margin: 6px;
+    padding: 15px;
 }
 
-.btn{
+.btn-contact{
     margin-bottom: 16px;
+    margin-right: 3%;
 }
 
 .form-group{
